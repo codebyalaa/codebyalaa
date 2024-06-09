@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alaa Alzahrani, you can find my projects under @codebyalaa
-- 👀 I’m interested in Art and Visiuals
+- 👀 I’m interested in Art and Visuals
 - 🌱 I’m currently learning AI and ML from UT Austin
 - I have completed my MS in Biomedical Engineering and BS in Biotechnology
 - 💞️ I’m looking to collaborate on AI, medical devices, IOS Apps, and websites.
