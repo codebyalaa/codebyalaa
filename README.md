@@ -4,7 +4,6 @@
 - I have completed my MS in Biomedical Engineering and BS in Biotechnology
 - 💞️ I’m looking to collaborate on AI models, ML models, IOS Apps, and Predictions.
 - 📫 How to reach me by email send2alaa@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like dancing, and R&B
 
 <!---
